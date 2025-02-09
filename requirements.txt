@@ -1,0 +1,7 @@
+flask
+flask-wtf
+werkzeug
+flask_sqlalchemy
+flask_login
+pymysql
+requests
